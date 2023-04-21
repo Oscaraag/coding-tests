@@ -1,0 +1,9 @@
+.idea
+coverage
+node_modules
+.nyc_output
+yarn-error.log
+.env
+build
+logs/*
+.env.prod
